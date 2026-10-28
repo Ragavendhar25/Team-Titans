@@ -1,0 +1,211 @@
+run,version,seed,label,degraded,degrade_mode,field,truth_present,truth_value,status,extracted,outcome,reason,secs
+run1,v0.1,20261028,L01,0,,NAME,1,Choco Wafer Biscuit,PRESENT,Choco,correct,keyword + value,0.358
+run1,v0.1,20261028,L01,0,,QTY,1,200 g,PRESENT,200g,correct,keyword + value,0.358
+run1,v0.1,20261028,L01,0,,MRP,1,Rs. 430.00 (incl. of all taxes),PRESENT,Rs. 430,correct,keyword + value,0.358
+run1,v0.1,20261028,L01,0,,MFR,1,"Kovai Naturals Ltd, 76 Mill Rd, Coimbatore",PRESENT,Ltd,correct,keyword + value,0.358
+run1,v0.1,20261028,L01,0,,DATE,0,,ABSENT,,correct,keyword not found,0.358
+run1,v0.1,20261028,L01,0,,CARE,1,1800-570-4820,PRESENT,1800-570-4820,correct,keyword + value,0.358
+run1,v0.1,20261028,L01,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.358
+run1,v0.1,20261028,L02,1,lowcontrast,NAME,1,Coconut Hair Oil,PRESENT,Coconut,correct,keyword + value,0.349
+run1,v0.1,20261028,L02,1,lowcontrast,QTY,1,500 g,PRESENT,500g,correct,keyword + value,0.349
+run1,v0.1,20261028,L02,1,lowcontrast,MRP,1,Rs. 110.00 (incl. of all taxes),PRESENT,Rs. 110,correct,keyword + value,0.349
+run1,v0.1,20261028,L02,1,lowcontrast,MFR,1,"Kovai Naturals Ltd, 21 Mill Rd, Coimbatore",PRESENT,Ltd,correct,keyword + value,0.349
+run1,v0.1,20261028,L02,1,lowcontrast,DATE,1,16/01/2026,PRESENT,16/01/2026,correct,keyword + value,0.349
+run1,v0.1,20261028,L02,1,lowcontrast,CARE,1,1800-770-9801,PRESENT,1800-770-9801,correct,keyword + value,0.349
+run1,v0.1,20261028,L02,1,lowcontrast,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.349
+run1,v0.1,20261028,L03,0,,NAME,1,Aloe Vera Gel,PRESENT,Aloe,correct,keyword + value,0.29
+run1,v0.1,20261028,L03,0,,QTY,0,,ABSENT,,correct,keyword not found,0.29
+run1,v0.1,20261028,L03,0,,MRP,1,Rs. 45.00 (incl. of all taxes),PRESENT,Rs. 45,correct,keyword + value,0.29
+run1,v0.1,20261028,L03,0,,MFR,1,"Kovai Naturals Ltd, 8 Mill Rd, Coimbatore",PRESENT,Ltd,correct,keyword + value,0.29
+run1,v0.1,20261028,L03,0,,DATE,0,,ABSENT,,correct,keyword not found,0.29
+run1,v0.1,20261028,L03,0,,CARE,1,1800-623-6002,PRESENT,1800-623-6002,correct,keyword + value,0.29
+run1,v0.1,20261028,L03,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.29
+run1,v0.1,20261028,L04,0,,NAME,0,,ABSENT,,correct,keyword not found,0.39
+run1,v0.1,20261028,L04,0,,QTY,1,250 g,PRESENT,250g,correct,keyword + value,0.39
+run1,v0.1,20261028,L04,0,,MRP,1,Rs. 189.00 (incl. of all taxes),PRESENT,Rs. 189,correct,keyword + value,0.39
+run1,v0.1,20261028,L04,0,,MFR,1,"Annam Foods Pvt Ltd, 59 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.39
+run1,v0.1,20261028,L04,0,,DATE,1,20/03/2026,PRESENT,20/03/2026,correct,keyword + value,0.39
+run1,v0.1,20261028,L04,0,,CARE,1,1800-112-6796,PRESENT,1800-112-6796,correct,keyword + value,0.39
+run1,v0.1,20261028,L04,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.39
+run1,v0.1,20261028,L05,0,,NAME,1,Ragi Cookies,PRESENT,Ragi,correct,keyword + value,0.301
+run1,v0.1,20261028,L05,0,,QTY,1,150 ml,PRESENT,150 ml,correct,keyword + value,0.301
+run1,v0.1,20261028,L05,0,,MRP,1,Rs. 308.00 (incl. of all taxes),PRESENT,Rs. 308,correct,keyword + value,0.301
+run1,v0.1,20261028,L05,0,,MFR,1,"Kovai Naturals Ltd, 15 Mill Rd, Coimbatore",PRESENT,Ltd,correct,keyword + value,0.301
+run1,v0.1,20261028,L05,0,,DATE,1,09/03/2026,PRESENT,09/03/2026,correct,keyword + value,0.301
+run1,v0.1,20261028,L05,0,,CARE,1,1800-937-7373,PRESENT,1800-937-7373,correct,keyword + value,0.301
+run1,v0.1,20261028,L05,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.301
+run1,v0.1,20261028,L06,0,,NAME,1,Choco Wafer Biscuit,PRESENT,Choco,correct,keyword + value,0.299
+run1,v0.1,20261028,L06,0,,QTY,1,50 g,PRESENT,50g,correct,keyword + value,0.299
+run1,v0.1,20261028,L06,0,,MRP,1,Rs. 59.00 (incl. of all taxes),PRESENT,Rs. 59,correct,keyword + value,0.299
+run1,v0.1,20261028,L06,0,,MFR,1,"Annam Foods Pvt Ltd, 59 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.299
+run1,v0.1,20261028,L06,0,,DATE,1,04/05/2026,PRESENT,04/05/2026,correct,keyword + value,0.299
+run1,v0.1,20261028,L06,0,,CARE,0,,ABSENT,,correct,keyword not found,0.299
+run1,v0.1,20261028,L06,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.299
+run1,v0.1,20261028,L07,1,smallfont+blur,NAME,1,Rose Body Lotion,PRESENT,Rose,correct,keyword + value,0.324
+run1,v0.1,20261028,L07,1,smallfont+blur,QTY,1,50 ml,PRESENT,50 ml,correct,keyword + value,0.324
+run1,v0.1,20261028,L07,1,smallfont+blur,MRP,1,Rs. 260.00 (incl. of all taxes),PRESENT,Rs. 260,correct,keyword + value,0.324
+run1,v0.1,20261028,L07,1,smallfont+blur,MFR,1,"Annam Foods Pvt Ltd, 89 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.324
+run1,v0.1,20261028,L07,1,smallfont+blur,DATE,1,23/08/2026,PRESENT,23/08/2026,correct,keyword + value,0.324
+run1,v0.1,20261028,L07,1,smallfont+blur,CARE,1,1800-281-8301,PRESENT,1800-281-8301,correct,keyword + value,0.324
+run1,v0.1,20261028,L07,1,smallfont+blur,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.324
+run1,v0.1,20261028,L08,0,,NAME,1,Herbal Face Wash,PRESENT,Herbal,correct,keyword + value,0.313
+run1,v0.1,20261028,L08,0,,QTY,1,50 ml,PRESENT,50 ml,correct,keyword + value,0.313
+run1,v0.1,20261028,L08,0,,MRP,1,Rs. 474.00 (incl. of all taxes),PRESENT,Rs. 474,correct,keyword + value,0.313
+run1,v0.1,20261028,L08,0,,MFR,1,"Kovai Naturals Ltd, 11 Mill Rd, Coimbatore",PRESENT,Ltd,correct,keyword + value,0.313
+run1,v0.1,20261028,L08,0,,DATE,0,,ABSENT,,correct,keyword not found,0.313
+run1,v0.1,20261028,L08,0,,CARE,1,1800-892-4120,PRESENT,1800-892-4120,correct,keyword + value,0.313
+run1,v0.1,20261028,L08,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.313
+run1,v0.1,20261028,L09,0,,NAME,1,Sambar Powder,PRESENT,Sambar,correct,keyword + value,0.293
+run1,v0.1,20261028,L09,0,,QTY,1,150 ml,PRESENT,150 ml,correct,keyword + value,0.293
+run1,v0.1,20261028,L09,0,,MRP,1,Rs. 425.00 (incl. of all taxes),PRESENT,Rs. 425,correct,keyword + value,0.293
+run1,v0.1,20261028,L09,0,,MFR,1,"Sunrise Foods Pvt Ltd, 72 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.293
+run1,v0.1,20261028,L09,0,,DATE,1,14/09/2026,PRESENT,14/09/2026,correct,keyword + value,0.293
+run1,v0.1,20261028,L09,0,,CARE,1,1800-780-5488,PRESENT,1800-780-5488,correct,keyword + value,0.293
+run1,v0.1,20261028,L09,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.293
+run1,v0.1,20261028,L10,0,,NAME,1,Neem Soap,PRESENT,Neem,correct,keyword + value,0.29
+run1,v0.1,20261028,L10,0,,QTY,1,150 ml,PRESENT,150 ml,correct,keyword + value,0.29
+run1,v0.1,20261028,L10,0,,MRP,1,Rs. 148.00 (incl. of all taxes),PRESENT,Rs. 148,correct,keyword + value,0.29
+run1,v0.1,20261028,L10,0,,MFR,1,"Sunrise Foods Pvt Ltd, 46 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.29
+run1,v0.1,20261028,L10,0,,DATE,1,19/12/2026,PRESENT,19/12/2026,correct,keyword + value,0.29
+run1,v0.1,20261028,L10,0,,CARE,0,,ABSENT,,correct,keyword not found,0.29
+run1,v0.1,20261028,L10,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.29
+run1,v0.1,20261028,L11,0,,NAME,1,Tomato Ketchup,PRESENT,Tomato,correct,keyword + value,0.289
+run1,v0.1,20261028,L11,0,,QTY,1,500 ml,PRESENT,500 ml,correct,keyword + value,0.289
+run1,v0.1,20261028,L11,0,,MRP,1,Rs. 458.00 (incl. of all taxes),PRESENT,Rs. 458,correct,keyword + value,0.289
+run1,v0.1,20261028,L11,0,,MFR,1,"GreenLeaf Industries, 37 Mill Rd, Coimbatore",PRESENT,Industries,correct,keyword + value,0.289
+run1,v0.1,20261028,L11,0,,DATE,0,,ABSENT,,correct,keyword not found,0.289
+run1,v0.1,20261028,L11,0,,CARE,1,1800-586-5029,PRESENT,1800-586-5029,correct,keyword + value,0.289
+run1,v0.1,20261028,L11,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.289
+run1,v0.1,20261028,L12,0,,NAME,1,Tomato Ketchup,PRESENT,Tomato,correct,keyword + value,0.336
+run1,v0.1,20261028,L12,0,,QTY,1,250 ml,PRESENT,250 ml,correct,keyword + value,0.336
+run1,v0.1,20261028,L12,0,,MRP,1,Rs. 19.00 (incl. of all taxes),PRESENT,Rs. 19,correct,keyword + value,0.336
+run1,v0.1,20261028,L12,0,,MFR,1,"Annam Foods Pvt Ltd, 15 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.336
+run1,v0.1,20261028,L12,0,,DATE,0,,ABSENT,,correct,keyword not found,0.336
+run1,v0.1,20261028,L12,0,,CARE,1,1800-696-4654,PRESENT,1800-696-4654,correct,keyword + value,0.336
+run1,v0.1,20261028,L12,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.336
+run1,v0.1,20261028,L13,0,,NAME,1,Tomato Ketchup,PRESENT,Tomato,correct,keyword + value,0.323
+run1,v0.1,20261028,L13,0,,QTY,1,200 g,PRESENT,200g,correct,keyword + value,0.323
+run1,v0.1,20261028,L13,0,,MRP,1,Rs. 279.00 (incl. of all taxes),PRESENT,Rs. 279,correct,keyword + value,0.323
+run1,v0.1,20261028,L13,0,,MFR,1,"GreenLeaf Industries, 39 Mill Rd, Coimbatore",PRESENT,Industries,correct,keyword + value,0.323
+run1,v0.1,20261028,L13,0,,DATE,1,23/12/2026,PRESENT,23/12/2026,correct,keyword + value,0.323
+run1,v0.1,20261028,L13,0,,CARE,1,1800-228-4491,PRESENT,1800-228-4491,correct,keyword + value,0.323
+run1,v0.1,20261028,L13,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.323
+run1,v0.1,20261028,L14,0,,NAME,1,Herbal Face Wash,PRESENT,Herbal,correct,keyword + value,0.296
+run1,v0.1,20261028,L14,0,,QTY,1,150 ml,PRESENT,150 ml,correct,keyword + value,0.296
+run1,v0.1,20261028,L14,0,,MRP,1,Rs. 185.00 (incl. of all taxes),PRESENT,Rs. 185,correct,keyword + value,0.296
+run1,v0.1,20261028,L14,0,,MFR,1,"Sunrise Foods Pvt Ltd, 9 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.296
+run1,v0.1,20261028,L14,0,,DATE,1,14/10/2026,PRESENT,14/10/2026,correct,keyword + value,0.296
+run1,v0.1,20261028,L14,0,,CARE,1,1800-808-3966,PRESENT,1800-808-3966,correct,keyword + value,0.296
+run1,v0.1,20261028,L14,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.296
+run1,v0.1,20261028,L15,0,,NAME,1,Neem Soap,PRESENT,Neem,correct,keyword + value,0.326
+run1,v0.1,20261028,L15,0,,QTY,1,100 g,PRESENT,100g,correct,keyword + value,0.326
+run1,v0.1,20261028,L15,0,,MRP,1,Rs. 260.00 (incl. of all taxes),PRESENT,Rs. 260,correct,keyword + value,0.326
+run1,v0.1,20261028,L15,0,,MFR,0,,ABSENT,,correct,keyword not found,0.326
+run1,v0.1,20261028,L15,0,,DATE,1,12/09/2026,PRESENT,12/09/2026,correct,keyword + value,0.326
+run1,v0.1,20261028,L15,0,,CARE,1,1800-203-2087,PRESENT,1800-203-2087,correct,keyword + value,0.326
+run1,v0.1,20261028,L15,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.326
+run1,v0.1,20261028,L16,0,,NAME,1,Mango Pickle,PRESENT,Mango,correct,keyword + value,0.316
+run1,v0.1,20261028,L16,0,,QTY,1,200 g,PRESENT,200g,correct,keyword + value,0.316
+run1,v0.1,20261028,L16,0,,MRP,1,Rs. 164.00 (incl. of all taxes),PRESENT,Rs. 164,correct,keyword + value,0.316
+run1,v0.1,20261028,L16,0,,MFR,1,"Kovai Naturals Ltd, 57 Mill Rd, Coimbatore",PRESENT,Ltd,correct,keyword + value,0.316
+run1,v0.1,20261028,L16,0,,DATE,1,28/09/2026,PRESENT,28/09/2026,correct,keyword + value,0.316
+run1,v0.1,20261028,L16,0,,CARE,1,1800-944-7728,PRESENT,1800-944-7728,correct,keyword + value,0.316
+run1,v0.1,20261028,L16,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.316
+run1,v0.1,20261028,L17,0,,NAME,1,Masala Peanut Chikki,PRESENT,Masala,correct,keyword + value,0.291
+run1,v0.1,20261028,L17,0,,QTY,1,150 ml,PRESENT,150 ml,correct,keyword + value,0.291
+run1,v0.1,20261028,L17,0,,MRP,1,Rs. 260.00 (incl. of all taxes),PRESENT,Rs. 260,correct,keyword + value,0.291
+run1,v0.1,20261028,L17,0,,MFR,1,"Annam Foods Pvt Ltd, 2 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.291
+run1,v0.1,20261028,L17,0,,DATE,0,,ABSENT,,correct,keyword not found,0.291
+run1,v0.1,20261028,L17,0,,CARE,1,1800-734-2078,PRESENT,1800-734-2078,correct,keyword + value,0.291
+run1,v0.1,20261028,L17,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.291
+run1,v0.1,20261028,L18,1,blur,NAME,1,Sambar Powder,PRESENT,Sambar,correct,keyword + value,0.33
+run1,v0.1,20261028,L18,1,blur,QTY,1,200 ml,UNCERTAIN,,uncertain,"keyword found, value unreadable",0.33
+run1,v0.1,20261028,L18,1,blur,MRP,1,Rs. 132.00 (incl. of all taxes),PRESENT,Rs. 132,correct,keyword + value,0.33
+run1,v0.1,20261028,L18,1,blur,MFR,1,"Sunrise Foods Pvt Ltd, 75 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.33
+run1,v0.1,20261028,L18,1,blur,DATE,1,20/06/2026,PRESENT,20/06/2026,correct,keyword + value,0.33
+run1,v0.1,20261028,L18,1,blur,CARE,1,1800-723-4411,PRESENT,1800-723-4411,correct,keyword + value,0.33
+run1,v0.1,20261028,L18,1,blur,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.33
+run1,v0.1,20261028,L19,1,rotate,NAME,1,Mango Pickle,PRESENT,Mango,correct,keyword + value,0.29
+run1,v0.1,20261028,L19,1,rotate,QTY,1,50 ml,PRESENT,50 ml,correct,keyword + value,0.29
+run1,v0.1,20261028,L19,1,rotate,MRP,1,Rs. 449.00 (incl. of all taxes),PRESENT,Rs. 449,correct,keyword + value,0.29
+run1,v0.1,20261028,L19,1,rotate,MFR,1,"Sunrise Foods Pvt Ltd, 28 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.29
+run1,v0.1,20261028,L19,1,rotate,DATE,0,,ABSENT,,correct,keyword not found,0.29
+run1,v0.1,20261028,L19,1,rotate,CARE,1,1800-271-6370,PRESENT,1800-271-6370,correct,keyword + value,0.29
+run1,v0.1,20261028,L19,1,rotate,ORIGIN,0,,ABSENT,,correct,keyword not found,0.29
+run1,v0.1,20261028,L20,1,lowcontrast,NAME,1,Choco Wafer Biscuit,PRESENT,Choco,correct,keyword + value,0.314
+run1,v0.1,20261028,L20,1,lowcontrast,QTY,1,500 ml,PRESENT,500 ml,correct,keyword + value,0.314
+run1,v0.1,20261028,L20,1,lowcontrast,MRP,1,Rs. 407.00 (incl. of all taxes),PRESENT,Rs. 407,correct,keyword + value,0.314
+run1,v0.1,20261028,L20,1,lowcontrast,MFR,1,"GreenLeaf Industries, 43 Mill Rd, Coimbatore",PRESENT,Industries,correct,keyword + value,0.314
+run1,v0.1,20261028,L20,1,lowcontrast,DATE,0,,ABSENT,,correct,keyword not found,0.314
+run1,v0.1,20261028,L20,1,lowcontrast,CARE,1,1800-117-2280,PRESENT,1800-117-2280,correct,keyword + value,0.314
+run1,v0.1,20261028,L20,1,lowcontrast,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.314
+run1,v0.1,20261028,L21,0,,NAME,1,Masala Peanut Chikki,PRESENT,Masala,correct,keyword + value,0.326
+run1,v0.1,20261028,L21,0,,QTY,1,250 g,PRESENT,250g,correct,keyword + value,0.326
+run1,v0.1,20261028,L21,0,,MRP,1,Rs. 404.00 (incl. of all taxes),PRESENT,Rs. 404,correct,keyword + value,0.326
+run1,v0.1,20261028,L21,0,,MFR,1,"Annam Foods Pvt Ltd, 12 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.326
+run1,v0.1,20261028,L21,0,,DATE,1,05/11/2026,PRESENT,05/11/2026,correct,keyword + value,0.326
+run1,v0.1,20261028,L21,0,,CARE,1,1800-587-6564,PRESENT,1800-587-6564,correct,keyword + value,0.326
+run1,v0.1,20261028,L21,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.326
+run1,v0.1,20261028,L22,1,blur,NAME,1,Herbal Face Wash,UNCERTAIN,Herbe,uncertain,low OCR confidence,0.3
+run1,v0.1,20261028,L22,1,blur,QTY,1,250 g,ABSENT,,wrong,keyword not found,0.3
+run1,v0.1,20261028,L22,1,blur,MRP,1,Rs. 98.00 (incl. of all taxes),ABSENT,,wrong,keyword not found,0.3
+run1,v0.1,20261028,L22,1,blur,MFR,1,"Kovai Naturals Ltd, 53 Mill Rd, Coimbatore",UNCERTAIN,Ltd,uncertain,low OCR confidence,0.3
+run1,v0.1,20261028,L22,1,blur,DATE,1,12/03/2026,PRESENT,12/03/2026,correct,keyword + value,0.3
+run1,v0.1,20261028,L22,1,blur,CARE,1,1800-558-6451,PRESENT,1800-558-6451,correct,keyword + value,0.3
+run1,v0.1,20261028,L22,1,blur,ORIGIN,0,,ABSENT,,correct,keyword not found,0.3
+run1,v0.1,20261028,L23,1,rotate,NAME,0,,ABSENT,,correct,keyword not found,0.293
+run1,v0.1,20261028,L23,1,rotate,QTY,1,100 g,UNCERTAIN,,uncertain,"keyword found, value unreadable",0.293
+run1,v0.1,20261028,L23,1,rotate,MRP,1,Rs. 208.00 (incl. of all taxes),PRESENT,Rs. 208,correct,keyword + value,0.293
+run1,v0.1,20261028,L23,1,rotate,MFR,1,"GreenLeaf Industries, 24 Mill Rd, Coimbatore",PRESENT,Industries,correct,keyword + value,0.293
+run1,v0.1,20261028,L23,1,rotate,DATE,1,13/07/2026,PRESENT,13/07/2026,correct,keyword + value,0.293
+run1,v0.1,20261028,L23,1,rotate,CARE,1,1800-920-5485,UNCERTAIN,,uncertain,"keyword found, value unreadable",0.293
+run1,v0.1,20261028,L23,1,rotate,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.293
+run1,v0.1,20261028,L24,1,blur,NAME,0,,ABSENT,,correct,keyword not found,0.234
+run1,v0.1,20261028,L24,1,blur,QTY,1,100 ml,UNCERTAIN,,uncertain,"keyword found, value unreadable",0.234
+run1,v0.1,20261028,L24,1,blur,MRP,0,,ABSENT,,correct,keyword not found,0.234
+run1,v0.1,20261028,L24,1,blur,MFR,0,,ABSENT,,correct,keyword not found,0.234
+run1,v0.1,20261028,L24,1,blur,DATE,1,14/12/2026,PRESENT,14/12/2026,correct,keyword + value,0.234
+run1,v0.1,20261028,L24,1,blur,CARE,1,1800-247-2456,PRESENT,1800-247-2456,correct,keyword + value,0.234
+run1,v0.1,20261028,L24,1,blur,ORIGIN,1,India,PRESENT,india,correct,keyword + value,0.234
+run1,v0.1,20261028,L25,1,rotate,NAME,1,Herbal Face Wash,PRESENT,Herbal,correct,keyword + value,0.269
+run1,v0.1,20261028,L25,1,rotate,QTY,1,200 ml,UNCERTAIN,,uncertain,"keyword found, value unreadable",0.269
+run1,v0.1,20261028,L25,1,rotate,MRP,0,,ABSENT,,correct,keyword not found,0.269
+run1,v0.1,20261028,L25,1,rotate,MFR,1,"Kovai Naturals Ltd, 11 Mill Rd, Coimbatore",ABSENT,,wrong,keyword not found,0.269
+run1,v0.1,20261028,L25,1,rotate,DATE,1,03/05/2026,PRESENT,03/05/2026,correct,keyword + value,0.269
+run1,v0.1,20261028,L25,1,rotate,CARE,1,1800-758-6276,UNCERTAIN,,uncertain,"keyword found, value unreadable",0.269
+run1,v0.1,20261028,L25,1,rotate,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.269
+run1,v0.1,20261028,L26,1,smallfont+blur,NAME,1,Neem Soap,PRESENT,Neem,correct,keyword + value,0.28
+run1,v0.1,20261028,L26,1,smallfont+blur,QTY,1,500 ml,UNCERTAIN,,uncertain,"keyword found, value unreadable",0.28
+run1,v0.1,20261028,L26,1,smallfont+blur,MRP,1,Rs. 154.00 (incl. of all taxes),PRESENT,Rs. 154,correct,keyword + value,0.28
+run1,v0.1,20261028,L26,1,smallfont+blur,MFR,0,,ABSENT,,correct,keyword not found,0.28
+run1,v0.1,20261028,L26,1,smallfont+blur,DATE,1,21/07/2026,PRESENT,21/07/2026,correct,keyword + value,0.28
+run1,v0.1,20261028,L26,1,smallfont+blur,CARE,1,1800-688-7228,PRESENT,1800-688-7228,correct,keyword + value,0.28
+run1,v0.1,20261028,L26,1,smallfont+blur,ORIGIN,1,India,PRESENT,india,correct,keyword + value,0.28
+run1,v0.1,20261028,L27,0,,NAME,1,Aloe Vera Gel,PRESENT,Aloe,correct,keyword + value,0.329
+run1,v0.1,20261028,L27,0,,QTY,1,250 g,PRESENT,250g,correct,keyword + value,0.329
+run1,v0.1,20261028,L27,0,,MRP,1,Rs. 184.00 (incl. of all taxes),PRESENT,Rs. 184,correct,keyword + value,0.329
+run1,v0.1,20261028,L27,0,,MFR,1,"Annam Foods Pvt Ltd, 43 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.329
+run1,v0.1,20261028,L27,0,,DATE,0,,ABSENT,,correct,keyword not found,0.329
+run1,v0.1,20261028,L27,0,,CARE,1,1800-308-5039,PRESENT,1800-308-5039,correct,keyword + value,0.329
+run1,v0.1,20261028,L27,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.329
+run1,v0.1,20261028,L28,0,,NAME,1,Masala Peanut Chikki,PRESENT,Masala,correct,keyword + value,0.337
+run1,v0.1,20261028,L28,0,,QTY,1,150 ml,PRESENT,150 ml,correct,keyword + value,0.337
+run1,v0.1,20261028,L28,0,,MRP,1,Rs. 226.00 (incl. of all taxes),PRESENT,Rs. 226,correct,keyword + value,0.337
+run1,v0.1,20261028,L28,0,,MFR,1,"Kovai Naturals Ltd, 70 Mill Rd, Coimbatore",PRESENT,Ltd,correct,keyword + value,0.337
+run1,v0.1,20261028,L28,0,,DATE,1,25/11/2026,PRESENT,25/11/2026,correct,keyword + value,0.337
+run1,v0.1,20261028,L28,0,,CARE,1,1800-317-3342,PRESENT,1800-317-3342,correct,keyword + value,0.337
+run1,v0.1,20261028,L28,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.337
+run1,v0.1,20261028,L29,0,,NAME,1,Choco Wafer Biscuit,PRESENT,Choco,correct,keyword + value,0.333
+run1,v0.1,20261028,L29,0,,QTY,1,200 ml,PRESENT,200 ml,correct,keyword + value,0.333
+run1,v0.1,20261028,L29,0,,MRP,1,Rs. 185.00 (incl. of all taxes),PRESENT,Rs. 185,correct,keyword + value,0.333
+run1,v0.1,20261028,L29,0,,MFR,1,"GreenLeaf Industries, 17 Mill Rd, Coimbatore",PRESENT,Industries,correct,keyword + value,0.333
+run1,v0.1,20261028,L29,0,,DATE,0,,ABSENT,,correct,keyword not found,0.333
+run1,v0.1,20261028,L29,0,,CARE,1,1800-274-1161,PRESENT,1800-274-1161,correct,keyword + value,0.333
+run1,v0.1,20261028,L29,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.333
+run1,v0.1,20261028,L30,0,,NAME,0,,ABSENT,,correct,keyword not found,0.327
+run1,v0.1,20261028,L30,0,,QTY,1,500 ml,PRESENT,500 ml,correct,keyword + value,0.327
+run1,v0.1,20261028,L30,0,,MRP,1,Rs. 357.00 (incl. of all taxes),PRESENT,Rs. 357,correct,keyword + value,0.327
+run1,v0.1,20261028,L30,0,,MFR,1,"Sunrise Foods Pvt Ltd, 88 Mill Rd, Coimbatore",PRESENT,Pvt,correct,keyword + value,0.327
+run1,v0.1,20261028,L30,0,,DATE,1,15/12/2026,PRESENT,15/12/2026,correct,keyword + value,0.327
+run1,v0.1,20261028,L30,0,,CARE,1,1800-931-9873,PRESENT,1800-931-9873,correct,keyword + value,0.327
+run1,v0.1,20261028,L30,0,,ORIGIN,1,India,PRESENT,India,correct,keyword + value,0.327

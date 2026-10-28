@@ -1,0 +1,19 @@
+{
+  "run": "run2",
+  "version": "v0.2",
+  "seed": 20261028,
+  "labels": 30,
+  "checks": 210,
+  "T1_correct": 196,
+  "T1_pct": 93.3,
+  "T1_pass": true,
+  "uncertain_fields": 13,
+  "T2_silent_labels": 1,
+  "T2_ids": [
+    "L22"
+  ],
+  "T2_pass": false,
+  "T3_median_s": 0.3,
+  "T3_pass": true,
+  "manual_comparator": "Not tested"
+}

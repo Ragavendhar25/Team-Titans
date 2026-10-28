@@ -1,0 +1,34 @@
+[run3] labelguard_poc.py v0.2  seed=7777  labels=30  fields/label=7  tesseract psm 6
+L01 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.30s
+L02 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.28s
+L03 DEG  ok ok ok ok ok XX ok  6/7 ok   0.27s  <-- SILENT WRONG RESULT
+L04 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.31s
+L05 DEG  ok ok ok ok ok ?? ok  6/7 ok   0.31s
+L06 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.30s
+L07 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.25s
+L08 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.32s
+L09 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.29s
+L10 CLEAN ok ok ok ok ok ?? ok  6/7 ok   0.26s
+L11 DEG  ok ok ok ok ok ok ok  7/7 ok   0.28s
+L12 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.30s
+L13 DEG  ok ?? ok ok ok ok ok  6/7 ok   0.29s
+L14 DEG  ok ok ok ok ok ok ok  7/7 ok   0.28s
+L15 DEG  ok ?? ok ok ok ok ok  6/7 ok   0.31s
+L16 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.31s
+L17 DEG  ok ok ok ok ok ok ok  7/7 ok   0.29s
+L18 DEG  ok ?? ok ok ok ok ok  6/7 ok   0.31s
+L19 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.32s
+L20 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.32s
+L21 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.33s
+L22 CLEAN ok ok ok ok ok ?? ok  6/7 ok   0.31s
+L23 DEG  ok XX ?? XX ok ok XX  3/7 ok   0.32s  <-- SILENT WRONG RESULT
+L24 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.29s
+L25 CLEAN ok ok ok ok ok ?? ok  6/7 ok   0.28s
+L26 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.31s
+L27 DEG  ok ?? ok ok ok ?? ok  5/7 ok   0.27s
+L28 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.33s
+L29 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.26s
+L30 CLEAN ok ok ok ok ok ok ok  7/7 ok   0.31s
+[run3] T1 196/210 (93.3%)  [PASS >=189]   UNCERTAIN fields 10
+[run3] T2 silent-wrong labels 2/30 ['L03', 'L23']  [FAIL =0]
+[run3] T3 median 0.3 s/label  [PASS <=10 s]   manual comparator: Not tested
